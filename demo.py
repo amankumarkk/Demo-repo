@@ -1,1 +1,1 @@
-print("Demo Project!") 
+print("Demo Project next version!") 
